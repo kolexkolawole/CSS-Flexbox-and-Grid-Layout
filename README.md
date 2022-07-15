@@ -7,6 +7,6 @@ and
 CSS GRID-LAYOUT (grid.html and grid.css)
 
 The link below is for flex layout
-https://CSS-Flexbox-and-Grid-Layout-12.kolexkolawole.repl.co
+https://kolexkolawole.github.io/CSS-Flexbox-and-Grid-Layout/
 
 
