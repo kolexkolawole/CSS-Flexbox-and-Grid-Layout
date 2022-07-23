@@ -5,7 +5,7 @@
 
 
 body{
-  display: flex:
+/*   display: flex: */
   /*     box-sizing: border-box; */
   
 /*   justify-content: center; */
@@ -67,6 +67,13 @@ padding: 3%;
     .button1:hover {
   background-color: #e28525;
   color: white;
+}
+
+
+.content{
+
+display: flex;
+  
 }
 
 
